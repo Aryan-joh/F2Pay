@@ -40,8 +40,7 @@ https://github.com/ironor25/F2Pay.git
 - **Secure Two-Factor Authentication (2FA)** ✅  
 
 
-## Contact  
-For inquiries, reach out to **Deepak Yadav** at **deepak.yadav250703@gmail.com**.  
+
 
 ---  
 Let me know if you want any modifications! 🚀  
